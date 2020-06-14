@@ -1,6 +1,6 @@
 # express
 
-> My good Nuxt.js project
+> One server seamlessly.
 
 ## Build Setup
 
